@@ -1,2 +1,2 @@
-# Spiking-Attention-Mechanism
-Spiking Attention Mechanism for Spiking Neural Networks
+# Learning A Spiking Residual Network for Image Super-Resolution
+This work will be coming soon...
